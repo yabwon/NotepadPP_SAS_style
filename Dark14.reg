@@ -1,0 +1,162 @@
+Windows Registry Editor Version 5.00
+ 
+[HKEY_CURRENT_USER\Software\SAS Institute Inc.\Enhanced Editor\9.4\Editor Settings\.sas\Schemes\dark14]
+"FontCharSetEx"=dword:ffffffff
+"FontName"="Courier New"
+"FontSize"=dword:0000000e
+ 
+[HKEY_CURRENT_USER\Software\SAS Institute Inc.\Enhanced Editor\9.4\Editor Settings\.sas\Schemes\dark14\Elements]
+ 
+[HKEY_CURRENT_USER\Software\SAS Institute Inc.\Enhanced Editor\9.4\Editor Settings\.sas\Schemes\dark14\Elements\code]
+"background"=dword:02000000
+"bold"=dword:00000000
+"displayName"=dword:00001bbc
+"foreground"=dword:02dcdcdc
+"italic"=dword:00000000
+"strikeout"=dword:00000000
+"underline"=dword:00000000
+ 
+[HKEY_CURRENT_USER\Software\SAS Institute Inc.\Enhanced Editor\9.4\Editor Settings\.sas\Schemes\dark14\Elements\comments]
+"background"=dword:02000000
+"bold"=dword:00000000
+"displayName"=dword:00001bc0
+"foreground"=dword:0200b900
+"italic"=dword:00000000
+"strikeout"=dword:00000000
+"underline"=dword:00000000
+ 
+[HKEY_CURRENT_USER\Software\SAS Institute Inc.\Enhanced Editor\9.4\Editor Settings\.sas\Schemes\dark14\Elements\dataLines]
+"background"=dword:02808080
+"bold"=dword:00000000
+"displayName"=dword:00001bc8
+"foreground"=dword:0280ffff
+"italic"=dword:00000000
+"strikeout"=dword:00000000
+"underline"=dword:00000000
+ 
+[HKEY_CURRENT_USER\Software\SAS Institute Inc.\Enhanced Editor\9.4\Editor Settings\.sas\Schemes\dark14\Elements\dateTime]
+"background"=dword:02000000
+"bold"=dword:00000001
+"displayName"=dword:00001bc6
+"foreground"=dword:02808000
+"italic"=dword:00000000
+"strikeout"=dword:00000000
+"underline"=dword:00000000
+ 
+[HKEY_CURRENT_USER\Software\SAS Institute Inc.\Enhanced Editor\9.4\Editor Settings\.sas\Schemes\dark14\Elements\format]
+"background"=dword:02000000
+"bold"=dword:00000000
+"displayName"=dword:00001bc7
+"foreground"=dword:02808000
+"italic"=dword:00000000
+"strikeout"=dword:00000000
+"underline"=dword:00000000
+ 
+[HKEY_CURRENT_USER\Software\SAS Institute Inc.\Enhanced Editor\9.4\Editor Settings\.sas\Schemes\dark14\Elements\macroDef]
+"background"=dword:02000000
+"bold"=dword:00000001
+"displayName"=dword:00001bca
+"foreground"=dword:020080ff
+"italic"=dword:00000001
+"strikeout"=dword:00000000
+"underline"=dword:00000000
+ 
+[HKEY_CURRENT_USER\Software\SAS Institute Inc.\Enhanced Editor\9.4\Editor Settings\.sas\Schemes\dark14\Elements\macroKeyword]
+"background"=dword:02000000
+"bold"=dword:00000000
+"displayName"=dword:00001bbe
+"foreground"=dword:0200ff00
+"italic"=dword:00000000
+"strikeout"=dword:00000000
+"underline"=dword:00000000
+ 
+[HKEY_CURRENT_USER\Software\SAS Institute Inc.\Enhanced Editor\9.4\Editor Settings\.sas\Schemes\dark14\Elements\macroRef]
+"background"=dword:02000000
+"bold"=dword:00000001
+"displayName"=dword:00001bcb
+"foreground"=dword:024080ff
+"italic"=dword:00000001
+"strikeout"=dword:00000000
+"underline"=dword:00000001
+ 
+[HKEY_CURRENT_USER\Software\SAS Institute Inc.\Enhanced Editor\9.4\Editor Settings\.sas\Schemes\dark14\Elements\macroSection]
+"background"=dword:02c0c0c0
+"bold"=dword:00000001
+"displayName"=dword:00001bcd
+"foreground"=dword:0200e6ff
+"italic"=dword:00000000
+"strikeout"=dword:00000000
+"underline"=dword:00000000
+ 
+[HKEY_CURRENT_USER\Software\SAS Institute Inc.\Enhanced Editor\9.4\Editor Settings\.sas\Schemes\dark14\Elements\macroText]
+"background"=dword:02000000
+"bold"=dword:00000000
+"displayName"=dword:00001bce
+"foreground"=dword:02dcdcdc
+"italic"=dword:00000000
+"strikeout"=dword:00000000
+"underline"=dword:00000000
+ 
+[HKEY_CURRENT_USER\Software\SAS Institute Inc.\Enhanced Editor\9.4\Editor Settings\.sas\Schemes\dark14\Elements\numbers]
+"background"=dword:02000000
+"bold"=dword:00000001
+"displayName"=dword:00001bc2
+"foreground"=dword:02accb96
+"italic"=dword:00000000
+"strikeout"=dword:00000000
+"underline"=dword:00000000
+ 
+[HKEY_CURRENT_USER\Software\SAS Institute Inc.\Enhanced Editor\9.4\Editor Settings\.sas\Schemes\dark14\Elements\otherKeyword]
+"background"=dword:02000000
+"bold"=dword:00000000
+"displayName"=dword:00001bbf
+"foreground"=dword:02ffaa50
+"italic"=dword:00000000
+"strikeout"=dword:00000000
+"underline"=dword:00000000
+ 
+[HKEY_CURRENT_USER\Software\SAS Institute Inc.\Enhanced Editor\9.4\Editor Settings\.sas\Schemes\dark14\Elements\procName]
+"background"=dword:02000000
+"bold"=dword:00000001
+"displayName"=dword:00001bc9
+"foreground"=dword:0278dc3c
+"italic"=dword:00000000
+"strikeout"=dword:00000000
+"underline"=dword:00000000
+ 
+[HKEY_CURRENT_USER\Software\SAS Institute Inc.\Enhanced Editor\9.4\Editor Settings\.sas\Schemes\dark14\Elements\stepKeyword]
+"background"=dword:02000000
+"bold"=dword:00000001
+"displayName"=dword:00001bbd
+"foreground"=dword:0278dc3c
+"italic"=dword:00000000
+"strikeout"=dword:00000000
+"underline"=dword:00000001
+ 
+[HKEY_CURRENT_USER\Software\SAS Institute Inc.\Enhanced Editor\9.4\Editor Settings\.sas\Schemes\dark14\Elements\strings]
+"background"=dword:02000000
+"bold"=dword:00000000
+"displayName"=dword:00001bc1
+"foreground"=dword:028080ff
+"italic"=dword:00000000
+"strikeout"=dword:00000000
+"underline"=dword:00000000
+ 
+[HKEY_CURRENT_USER\Software\SAS Institute Inc.\Enhanced Editor\9.4\Editor Settings\.sas\Schemes\dark14\Elements\undefKeyword]
+"background"=dword:02000000
+"bold"=dword:00000000
+"displayName"=dword:00001bcc
+"foreground"=dword:020000ff
+"italic"=dword:00000000
+"strikeout"=dword:00000000
+"underline"=dword:00000000
+ 
+[HKEY_CURRENT_USER\Software\SAS Institute Inc.\Enhanced Editor\9.4\Editor Settings\.sas\Schemes\dark14\Elements\userKeyword]
+"background"=dword:02000000
+"bold"=dword:00000000
+"displayName"=dword:00001bcf
+"foreground"=dword:02ffff80
+"italic"=dword:00000000
+"strikeout"=dword:00000000
+"underline"=dword:00000000
+ 

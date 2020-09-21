@@ -1,0 +1,3 @@
+
+
+HKEY_CURRENT_USER\Software\SAS Institute Inc.\Enhanced Editor\9.4\Editor Settings\.sas\Schemes
