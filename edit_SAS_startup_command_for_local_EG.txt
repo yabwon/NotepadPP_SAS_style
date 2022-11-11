@@ -1,0 +1,4 @@
+edit "SAS startup command" for local EG:
+
+Windows registry, this key: HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{440196D4-90F0-11D0-9F41-00A024BB830C}\LocalServer32
+But know that sas.exe / regserver will reset it.
