@@ -1,0 +1,227 @@
+Term,English text,Translation,Source
+commands.SAS.addFileResource,New File...,Nowy Plik...,nls
+commands.SAS.addFolderResource,New Folder...,Nowy Katalog...,nls
+commands.SAS.addProfile,Add New Connection Profile,Dodaj Nowy Profil Połączenia,nls
+commands.SAS.addToFavorites,Add to My Favorites,Dodaj do Ulubionych,nls
+commands.SAS.authorize,Sign in,Zaloguj się,nls
+commands.SAS.close,Close Current Session,Zamknij Bieżącą Sesję,nls
+commands.SAS.collapseAll,Collapse All,Zwiń Wszystko,nls
+commands.SAS.convertNotebookToFlow,Convert to Flow...,Przekształć w Przepływ...,nls
+commands.SAS.deleteProfile,Delete Connection Profile,Usuń Profil Połączenia,nls
+commands.SAS.deleteResource,Delete,Usuń,nls
+commands.SAS.deleteTable,Delete,Usuń,nls
+commands.SAS.download,Download,Pobierz,nls
+commands.SAS.emptyRecycleBin,Empty Recycle Bin,Opróżnij Kosz,nls
+commands.SAS.file.new,New SAS File,Nowy Plik SASowy,nls
+commands.SAS.file.new.short,SAS File,Plik SASowy,nls
+commands.SAS.notebook.export,Export,Eksportuj,nls
+commands.SAS.notebook.new,New SAS Notebook,Nowy Notatnik SASowy,nls
+commands.SAS.notebook.new.short,SAS Notebook,Notatnik SASowy,nls
+commands.SAS.refresh,Refresh,Odśwież,nls
+commands.SAS.removeFromFavorites,Remove from My Favorites,Usuń z Ulubionych,nls
+commands.SAS.renameResource,Rename...,Zmień Nazwę...,nls
+commands.SAS.restoreResource,Restore,Przywróć,nls
+commands.SAS.run,Run All SAS Code,Uruchom Wszystkie Kody SASowe,nls
+commands.SAS.runRegion,Run Region,Uruchom Obszar,nls
+commands.SAS.runSelected,Run Selected or All SAS Code,Uruchom Wybrane albo Wszystkie Kody SASowe,nls
+commands.SAS.switchProfile,Switch Current Connection Profile,Przełącz Bieżący Profil Połączenia,nls
+commands.SAS.updateProfile,Update Connection Profile,Zaktualizuj Profil Połączenia,nls
+commands.SAS.upload,Upload,Załaduj,nls
+commands.SAS.uploadFiles,Upload Files,Załaduj Pliki,nls
+commands.SAS.uploadFolders,Upload Folders,Załaduj Katalogi,nls
+configuration.SAS.connectionProfiles,"Define the connection profiles to connect to SAS servers. If you define more than one profile, you can switch between them.","W celu połączenia z Serwerem SAS zdefiniuj Profil Połączenia. Jeśli zdefiniujesz wiele Profilów Połączenia, możesz przełączać się między nimi.",nls
+configuration.SAS.connectionProfiles.activeProfile,Active SAS Connection Profile,Aktywuj Profil Połączenia SAS,nls
+configuration.SAS.connectionProfiles.profiles,SAS Connection Profiles,Profile Połączeń SAS,nls
+configuration.SAS.connectionProfiles.profiles.autoExec,SAS Connection AutoExec,AutoExec Połączenia SAS,nls
+configuration.SAS.connectionProfiles.profiles.autoExec.filePath,SAS Connection AutoExec File path,Ścieżka do pliku AutoExec dla Połączenia SAS,nls
+configuration.SAS.connectionProfiles.profiles.autoExec.line,SAS Connection AutoExec Line,Linia AutoExec dla Połączenia SAS,nls
+configuration.SAS.connectionProfiles.profiles.autoExec.type,SAS Connection AutoExec type,Rodzaj AutoExec dla Połączenia SAS,nls
+configuration.SAS.connectionProfiles.profiles.clientId,SAS Viya Client ID,Identyfikator Klienta SAS Viya,nls
+configuration.SAS.connectionProfiles.profiles.clientSecret,SAS Viya Client Secret,Klucz Tajny Klienta SAS Viya,nls
+configuration.SAS.connectionProfiles.profiles.com.host,SAS COM Connection Host,Server Gospodarz dla Połączenia SAS COM,nls
+configuration.SAS.connectionProfiles.profiles.com.interopLibraryFolderPath,SAS COM interop library path,Ścieżka do Biblioteki Interop dla Połączenia SAS COM,nls
+configuration.SAS.connectionProfiles.profiles.connectionType,SAS Profile Connection Type,Rodzaj Połączenia Profilu SAS,nls
+configuration.SAS.connectionProfiles.profiles.context,SAS Viya Context,Kontekst SAS Viya,nls
+configuration.SAS.connectionProfiles.profiles.endpoint,SAS Viya Connection Profile Endpoint,Punkt Docelowy Profilu Połączenia SAS Viya,nls
+configuration.SAS.connectionProfiles.profiles.iom.host,SAS IOM Connection Host,Server Gospodarz dla Połączenia SAS typu IOM,nls
+configuration.SAS.connectionProfiles.profiles.iom.interopLibraryFolderPath,SAS IOM interop library path,Ścieżka do Biblioteki Interop dla Połączenia SAS IOM,nls
+configuration.SAS.connectionProfiles.profiles.iom.port,SAS IOM Connection port,Port Połączenia SAS typu IOM,nls
+configuration.SAS.connectionProfiles.profiles.iom.username,SAS IOM Connection username,Nazwa Użytkownika Połączenia SAS typu IOM,nls
+configuration.SAS.connectionProfiles.profiles.name,SAS Connection Profile Name,Nazwa Profilu Połączenia SAS,nls
+configuration.SAS.connectionProfiles.profiles.sasOptions,SAS Connection SAS options,Opcje SASowe Połączenia SAS,nls
+configuration.SAS.connectionProfiles.profiles.ssh.host,SAS SSH Connection SSH Host,Server (SSH) Gospodarz Połączenia SAS typu SSH,nls
+configuration.SAS.connectionProfiles.profiles.ssh.port,SAS SSH Connection port,Port Połączenia SAS typu SSH,nls
+configuration.SAS.connectionProfiles.profiles.ssh.privateKeyFilePath,SAS SSH Connection private key file path,Ścieżka Plików Kluczy Prywatnych Połączenia SAS typu SSH,nls
+configuration.SAS.connectionProfiles.profiles.ssh.saspath,SAS SSH Connection executable path,Ścieżka Plików Wykonywalnych Połączenia SAS typu SSH,nls
+configuration.SAS.connectionProfiles.profiles.ssh.username,SAS SSH Connection username,Nazwa Użytkownika Połączenia SAS typu SSH,nls
+configuration.SAS.flowConversionMode,Choose the conversion mode for notebooks,Wybierz Rodzaj Przekształcenia dla Notatnika,nls
+configuration.SAS.flowConversionModeNode,Convert each notebook cell to a node,Przekształć Każdą Komórkę Notatnika w Wierzchołek,nls
+configuration.SAS.flowConversionModeSwimlane,Convert each notebook cell to a swimlane,Przekształć Każdą Komórkę Notatnika w Tor,nls
+configuration.SAS.log.clearOnExecutionStart,Clear SAS Log when code execution starts,Wyczyść Dziennik SAS przed rozpoczęciem wykonywania kodu,nls
+configuration.SAS.log.showOnExecutionFinish,Show SAS Log when code execution is finished,Wyświetl Dziennik SAS po zakończeniu wykonywania kodu,nls
+configuration.SAS.log.showOnExecutionStart,Show SAS Log when code execution starts,Wyświetl Dziennik SAS podczas rozpoczęcia wykonywania kodu,nls
+configuration.SAS.notebook.export.includeLog,Include SAS log in exported notebook,Dołącz Dziennik SAS do eksportowanego Notatnika,nls
+configuration.SAS.problems.log.enabled,Show problems from SAS log,Wyświetl problemy z Dziennika SAS,nls
+configuration.SAS.results.html.enabled,Enable/disable ODS HTML5 output,Włącz/Wyłącz okno wyników ODS HTML5,nls
+configuration.SAS.results.html.style,Specifies the style for ODS HTML5 results.,Wskaż styl prezentacji wyników ODS HTML5.,nls
+configuration.SAS.results.html.style.(auto),Let the extension pick a style that most closely matches the color theme.,Pozwól na wybranie stylu najbliższego palecie kolorów sesji,nls
+configuration.SAS.results.html.style.(server default),Default to the style configured on the SAS server.,Wybierz domyślny styl skonfigurowany na Serwerze SAS,nls
+configuration.SAS.results.sideBySide,Display results to the side of the code,Wyświetl wyniki obok kodu,nls
+configuration.SAS.results.singlePanel,Reuse single panel to display results,Użyj jednego panelu do wyświetlenia wyników,nls
+configuration.SAS.userProvidedCertificates,Provide trusted CA certificate files,Wskaż pliki zaufanych certyfikatów cyfrowych,nls
+notebooks.SAS.htmlRenderer,SAS HTML Renderer,Generator SAS HTML,nls
+notebooks.SAS.logRenderer,SAS Log Renderer,Generator Dziennika SAS,nls
+notebooks.SAS.sasNotebook,SAS Notebook,Notatnik SAS,nls
+themes.SAS.dark,SAS Dark,Motyw ciemny SAS,nls
+themes.SAS.highContrast,SAS High Contrast,Motyw Wysokiego Kontrastu SAS,nls
+themes.SAS.light,SAS Light,Motyw jasny SAS,nls
+views.SAS.explorer,SAS Content,Przeglądarka,nls
+views.SAS.libraries,Libraries,Biblioteki,nls
+views.SAS.serverExplorer,SAS Server,Serwer SAS,nls
+views.SAS.signIn,Sign In,Zaloguj,nls
+views.SAS.unsupportedConnection,Your connection does not support SAS content navigation within the SAS Extension for Visual Studio Code. You can access files only using the Explorer view.,Używane połączenie nie pozwala nawigować bezpośrednio w rozszerzeniu SAS dla Visual Studio Code. Dostęp do plików możliwy jest tylko w widoku przeglądarki.,nls
+views.SAS.welcome,"To use the SAS Extension for Visual Studio Code, you must sign in to SAS.
+[Sign In](command:SAS.authorize)",Zaloguj się aby używać rozszerzenia SAS dla Visual Studio Code.
+[Zaloguj](command:SAS.authorize),nls
+The SAS session has closed.,The SAS session has closed.,Sesja SAS została zamknięta.,l10
+Connecting to SAS session...,Connecting to SAS session...,Łączę z sesją SAS...,l10
+Invalid connectionType. Check Profile settings.,Invalid connectionType. Check Profile settings.,Niewłaściwy rodzaj połączenia. Zweryfikuj ustawienia profilu.,l10
+Method not implemented.,Method not implemented.,Nie zaimplementowano metody.,l10
+Could not connect to the SAS server.,Could not connect to the SAS server.,<add translation here>,l10
+Result,Result,Wyniki,l10
+Enter the password for user: {username},Enter the password for user: {username},<add translation here>,l10
+Password Required,Password Required,<add translation here>,l10
+Enter the passphrase for the private key,Enter the passphrase for the private key,<add translation here>,l10
+Passphrase Required,Passphrase Required,<add translation here>,l10
+User {username} {prompt},User {username} {prompt},<add translation here>,l10
+"Error reading private key file: {filePath}, error: {message}","Error reading private key file: {filePath}, error: {message}",<add translation here>,l10
+Error getting session with ID {id} - {message},Error getting session with ID {id} - {message},Błąd przy próbie uruchomienia sesji o identyfikatorze: {id} - {message},l10
+Cannot call self on ComputeSession with no id,Cannot call self on ComputeSession with no id,Nie można wywołać self dla ComputeSessions bez identyfikatora,l10
+Error getting server with ID {id} - {message},Error getting server with ID {id} - {message},Błąd przy próbie połączenia z serwerem o identyfikatorze: {id} - {message},l10
+Failed to get state from Session {sessionId},Failed to get state from Session {sessionId},Błąd przy próbie sprawdzenia statusu sesji {sessionId},l10
+Session does not have '{linkName}' link,Session does not have '{linkName}' link,Sesja nie posiada łącza: '{linkName}',l10
+Cannot call self on object with no id,Cannot call self on object with no id,Nie można wywołać self na obiekcie bez identyfikatora,l10
+Server does not have createSession link,Server does not have createSession link,Serwer nie posiada łącza: createSession,l10
+Server does not have state link,Server does not have state link,Serwer nie posiada łącza stanu,l10
+Something went wrong,Something went wrong,Coś poszło nie tak...,l10
+Job does not have '{linkName}' link,Job does not have '{linkName}' link,Zadanie nie posiada łącza: '{linkName}',l10
+Compute Context not found: {name},Compute Context not found: {name},Nie znaleziono kontekstu obliczeniowego: {name},l10
+Not implemented,Not implemented,Nie zaimplementowano,l10
+Paste authorization code here,Paste authorization code here,Wklej kod autoryzacji tutaj,l10
+No authorization code,No authorization code,Brak kodu autoryzacji,l10
+Enter your password for this connection.,Enter your password for this connection.,Wprowadź hasło dla połączenia.,l10
+Enter your password,Enter your password,Wprowadź hasło,l10
+This platform does not support this connection type.,This platform does not support this connection type.,Ta platforma nie obsługuje wskazanego typu połączenia.,l10
+Unable to load required libraries.,Unable to load required libraries.,<add translation here>,l10
+There was an error executing the SAS Program. See [console log](command:workbench.action.toggleDevTools) for more details.,There was an error executing the SAS Program. See [console log](command:workbench.action.toggleDevTools) for more details.,Podczas wykonywania programu SAS nastąpił błąd! Szczegóły znajdują się w [console log](command:workbench.action.toggleDevTools).,l10
+An error was encountered when loading table data. This usually happens when a table is too large or the data couldn't be processed. See console for more details.,An error was encountered when loading table data. This usually happens when a table is too large or the data couldn't be processed. See console for more details.,Podczas ładowania tabeli danych wystąpił błąd! Powodem może być zbyt duży rozmiar danych lub błąd przetwarzania. Więcej szczegółów znajduje się w wydruku konsoli.,l10
+No Active Profile,No Active Profile,Nie wybrano profilu,l10
+Missing connectionType in active profile.,Missing connectionType in active profile.,W aktywnym profilu nie podano rodzaju połączenia.,l10
+Missing endpoint in active profile.,Missing endpoint in active profile.,W aktywnym profilu nie podano punktu docelowego (endpoint).,l10
+Missing host in active profile.,Missing host in active profile.,W aktywnym profilu nie podano nazwy serwera (host).,l10
+Missing port in active profile.,Missing port in active profile.,W aktywnym profilu nie podano numeru portu.,l10
+Missing sas path in active profile.,Missing sas path in active profile.,W aktywnym profilu nie podano ścieżki sas.,l10
+Missing username in active profile.,Missing username in active profile.,W aktywnym profilu nie podano nazwy użytkownika.,l10
+Switch Current SAS Profile,Switch Current SAS Profile,Zmień Bieżący Profil SAS,l10
+Select a SAS connection profile,Select a SAS connection profile,Wybierz profil połączenia SAS,l10
+New SAS Connection Profile Name,New SAS Connection Profile Name,Nazwa Nowego Profilu Połączenia SAS,l10
+Enter connection name,Enter connection name,Podaj nazwę połączenia,l10
+You can also specify connection profile using the settings.json file.,You can also specify connection profile using the settings.json file.,Połączenia oraz ich parametry można tworzyć lub zmieniać w pliku settings.json.,l10
+SAS Viya Server,SAS Viya Server,Serwer SAS Viya,l10
+Enter the URL,Enter the URL,Podaj adres URL,l10
+Enter the URL for the SAS Viya server. An example is https://example.sas.com.,Enter the URL for the SAS Viya server. An example is https://example.sas.com.,"Podaj adres URL serwera SAS Viya, na przykład https://example.sas.com",l10
+SAS Compute Context,SAS Compute Context,Kontekst Obliczeniowy SAS,l10
+Enter the SAS compute context,Enter the SAS compute context,Podaj nazwę kontekstu obliczeniowego SAS,l10
+Enter the SAS compute context.,Enter the SAS compute context.,Podaj nazwę kontekstu obliczeniowego SAS.,l10
+Client ID,Client ID,Identyfikator klienta,l10
+Enter a client ID,Enter a client ID,Podaj identyfikator klienta,l10
+Enter the registered client ID. An example is myapp.client.,Enter the registered client ID. An example is myapp.client.,Podaj zarejestrowany identyfikatora klienta. Przykładem jest myapp.client.,l10
+Client Secret,Client Secret,Klucz tajny klienta,l10
+Enter a client secret,Enter a client secret,Podaj klucz tajny klienta,l10
+Enter secret for client ID. An example is myapp.secret.,Enter secret for client ID. An example is myapp.secret.,Podaj klucz tajny dla identyfikatora klienta. Przykładem jest myapp.secret.,l10
+Connection Type,Connection Type,Typ Połączenia,l10
+Select a Connection Type,Select a Connection Type,Wybierz rodzaj połączenia,l10
+Select a Connection Type.,Select a Connection Type.,Wybierz rodzaj połączenia.,l10
+SAS 9 Server,SAS 9 Server,Serwer SAS 9,l10
+Enter the server name,Enter the server name,Podaj nazwę serwera,l10
+Enter the name of the SAS 9 server.,Enter the name of the SAS 9 server.,Podaj nazwę serwera SAS9.,l10
+Server Path,Server Path,ścieżka Serwera,l10
+Enter the server path,Enter the server path,Podaj nazwę ścieżki serwera,l10
+Enter the server path of the SAS Executable.,Enter the server path of the SAS Executable.,Podaj ścieżkę do plików wykonywalnych SAS na serwerze,l10
+Port Number,Port Number,Numer Portu,l10
+Enter a port number,Enter a port number,Podaj numer portu,l10
+Enter a port number.,Enter a port number.,Podaj numer portu.,l10
+SAS Server Username,SAS Server Username,Nazwa użytkownika serwera SAS,l10
+Enter your username,Enter your username,Podaj nazwę użytkownika,l10
+Enter your SAS server username.,Enter your SAS server username.,Podaj nazwę użytkownika serwera SAS,l10
+Private Key File Path (optional),Private Key File Path (optional),<add translation here>,l10
+Enter the local private key file path,Enter the local private key file path,<add translation here>,l10
+"To use the SSH Agent or a password, leave blank.","To use the SSH Agent or a password, leave blank.",<add translation here>,l10
+SAS Profile,SAS Profile,Profil SAS,l10
+Close Session,Close Session,Zamknij sesję,l10
+No Profile,No Profile,Brak profilu,l10
+No SAS Connection Profile,No SAS Connection Profile,Brak Profilu Połączenia SAS,l10
+Cannot find file: {file},Cannot find file: {file},Nie znaleziono pliku: {file},l10
+Task is complete.,Task is complete.,Zadanie zostało zakończone.,l10
+Task is cancelled.,Task is cancelled.,Zadanie zostało odwołane.,l10
+Cancelling job...,Cancelling job...,Anulowanie zadania...,l10
+SAS Log: {name},SAS Log: {name},<add translation here>,l10
+SAS Log,SAS Log,Dziennik SAS,l10
+Ignore: current position,Ignore: current position,Ignoruj: bieżącą pozycję,l10
+Ignore: warning,Ignore: warning,Ignoruj: ostrzeżenie,l10
+Ignore: error,Ignore: error,Ignoruj: błąd,l10
+Ignore: all,Ignore: all,Ignoruj: wszystko,l10
+Unable to delete table {tableName}.,Unable to delete table {tableName}.,Nie można usunąć tabeli {tableName}.,l10
+View SAS Table,View SAS Table,Podgląd tabeli SAS,l10
+Saving {itemName}.,Saving {itemName}.,Zapisywanie: {itemName}.,l10
+Converting SAS notebook to flow...,Converting SAS notebook to flow...,Przekształcam notatnik SASowy w Przepływ...,l10
+Choose where to save your files.,Choose where to save your files.,Wybierz lokalizację zapisu plików.,l10
+Save,Save,Zapisz,l10
+Downloading files...,Downloading files...,Pobieram pliki...,l10
+Uploading files...,Uploading files...,Przesyłam pliki...,l10
+SAS Program,SAS Program,Program języka SAS,l10
+SQL Program,SQL Program,Program języka SQL,l10
+Python Program,Python Program,Program języka Python,l10
+Unable to add file to my folder.,Unable to add file to my folder.,Nie można dodać pliku do mojego katalogu.,l10
+File added to my folder.,File added to my folder.,Plik dodany do mojego katalogu.,l10
+The item could not be added to My Favorites.,The item could not be added to My Favorites.,Obiektu nie można dodać do Ulubionych.,l10
+Delete,Delete,Usuń,l10
+"Are you sure you want to permanently delete the item ""{name}""?","Are you sure you want to permanently delete the item ""{name}""?","Czy na pewno chcesz nieodwracalnie usunąć wybrany obiekt: ""{name}""?",l10
+Unable to empty the recycle bin.,Unable to empty the recycle bin.,Nie można opróżnić kosza.,l10
+Are you sure you want to permanently delete all the items? You cannot undo this action.,Are you sure you want to permanently delete all the items? You cannot undo this action.,Czy na pewno chcesz nieodwracalnie usunąć wszystkie wybrane obiekty? Procesu nie można cofnąć!,l10
+Unable to delete file.,Unable to delete file.,Nie można usunąć pliku.,l10
+Unable to download files.,Unable to download files.,Nie można pobrać pliku.,l10
+Unable to drag files from my favorites.,Unable to drag files from my favorites.,Nie można przeciągnąć plików z Ulubionych.,l10
+Unable to drag files from trash.,Unable to drag files from trash.,Nie można przeciągnąć plików z kosza.,l10
+"Unable to drop item ""{name}"".","Unable to drop item ""{name}"".","Nie można upuścić obiektu ""{name}"".",l10
+The file type is unsupported.,The file type is unsupported.,Wskazany rodzaj pliku jest nieobsługiwany.,l10
+Unable to restore file.,Unable to restore file.,Nie można przywrócić pliku.,l10
+Unable to upload files.,Unable to upload files.,Nie można przesłać pliku.,l10
+Invalid file name.,Invalid file name.,Niewłaściwa nazwa pliku.,l10
+Unable to delete folder.,Unable to delete folder.,Nie można usunąć katalogu.,l10
+Unable to restore folder.,Unable to restore folder.,Nie można przywrócić katalogu.,l10
+The folder name cannot contain more than 100 characters or have invalid characters.,The folder name cannot contain more than 100 characters or have invalid characters.,<add translation here>,l10
+"Unable to create file ""{name}"".","Unable to create file ""{name}"".","Nie można utworzyć pliku: ""{name}"".",l10
+Enter a file name.,Enter a file name.,Podaj nazwę pliku.,l10
+New File,New File,Nowy Plik,l10
+"Unable to create folder ""{name}"".","Unable to create folder ""{name}"".","Nie można utworzyć katalogu: ""{name}"".",l10
+Enter a folder name.,Enter a folder name.,Podaj nazwę katalogu.,l10
+New Folder,New Folder,Nowy katalog,l10
+The item could not be removed from My Favorites.,The item could not be removed from My Favorites.,Obiektu nie można usunąć z Ulubionych.,l10
+"Unable to rename ""{oldName}"" to ""{newName}"".","Unable to rename ""{oldName}"" to ""{newName}"".","Nie można zmienić nazwy ""{oldName}"" na ""{newName}"".",l10
+Rename File,Rename File,Zmień Nazwę Pliku,l10
+Rename Folder,Rename Folder,Zmień Nazwę Katalogu,l10
+Enter a new name.,Enter a new name.,Podaj nową nazwę.,l10
+You must save your file before you can rename it.,You must save your file before you can rename it.,Przed zmianą nazwy plik należy zapisać.,l10
+Enter a name for the new .flw file,Enter a name for the new .flw file,Podaj nazwę nowego pliku o rozszerzeniu .flw,l10
+The notebook has been successfully converted to a flow and saved into the following folder: {folderName}. You can now open it in SAS Studio.,The notebook has been successfully converted to a flow and saved into the following folder: {folderName}. You can now open it in SAS Studio.,"Przetworzenie notatnika w przepływ zakończone sukcesem, wynik zapisano w katalogu: {folderName}. Przepływ można już otworzyć SAS Studio.",l10
+Error converting the notebook file to .flw format.,Error converting the notebook file to .flw format.,Błąd podczas przekształcania pliku notatnika do formatu .flw.,l10
+The notebook file does not contain any code to convert.,The notebook file does not contain any code to convert.,"Plik notatnika nie zawiera kodu, który można przetworzyć.",l10
+The output file name must end with the .flw extension.,The output file name must end with the .flw extension.,Nazwa pliku z wynikami musi być zakończona rozszerzeniem .flw.,l10
+Cannot connect to SAS Studio service,Cannot connect to SAS Studio service,Nie można połączyć się z usługa SAS Studio,l10
+{basename}_Copy{number}{ext},{basename}_Copy{number}{ext},<add translation here>,l10
+SAS code running...,SAS code running...,Wykonuję kod języka SAS...,l10
+Show results...,Show results...,Zaprezentuj wyniki...,l10
+Result: {result},Result: {result},Wyniki: {result},l10
+No Profiles available to delete,No Profiles available to delete,Brak profilu do usunięcia,l10
+The {selected} SAS connection profile has been deleted from the settings.json file.,The {selected} SAS connection profile has been deleted from the settings.json file.,Połączenie SAS: {selected} zostało usunięte z pliku settings.json.,l10
