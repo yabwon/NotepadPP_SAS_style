@@ -1,0 +1,7 @@
+{
+  "bundle": "t001_log_colors",
+  "source_file": "log colors.sas",
+  "source_blob_sha": "670c0fd33f6b23e12d7b8cd6470d3e7353792351",
+  "source_commit": "1c9d2fdfb0f857c6b004a55fe5c7a7e2f0ecea55",
+  "notes": "Byte-identical copy of the repo's only .sas file: a single `dm 'log; color background gray; wsave;'` Display Manager statement (with its original UTF-8 BOM preserved) followed by a large prose comment block (a SAS Communities forum excerpt on changing DM colors) that is not executable beyond the outer comment wrapper. No substitution needed -- the script runs unmodified, no data/paths involved."
+}

@@ -1,0 +1,9 @@
+{
+  "_captured_at": "2026-07-17T17:45:00Z",
+  "_captured_run_id": "r_827b1db5122b4f81ab9c792969acb7ee",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": ["NOTE: Option OBS changed to 100."],
+  "log_does_not_contain": ["ERROR:", "[JENNER-ERROR"],
+  "diagnostics": {"parse_warnings": [], "runtime_warnings": []}
+}
